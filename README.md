@@ -13,3 +13,12 @@ Category Name
 Unit Price
 
 Quantity/Unit
+
+
+create LINQ query in Linqpad
+
+create classes for read model
+
+copy/adapt Linqpad query to BLL method
+
+create page with nested repeater
